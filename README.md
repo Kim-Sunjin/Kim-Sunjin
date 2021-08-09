@@ -1,2 +1,2 @@
-# Github 프로필 repository
+# Github 프로필
 
