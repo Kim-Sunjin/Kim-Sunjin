@@ -1,2 +1,2 @@
-# Github 프로필
-
+# Kim's Git Hub
+## code lecture
